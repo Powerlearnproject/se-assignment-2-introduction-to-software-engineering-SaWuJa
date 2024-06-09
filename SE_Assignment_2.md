@@ -2,7 +2,9 @@ SE-Assignment-2: Introduction to Software Engineering_SAIDU_WURIE_JALLOH
 
 Define Software Engineering:
 What is software engineering, and how does it differ from traditional programming?
+
 Software Engineering is a systematic, disciplined, and quantifiable approach to the design, development, operation, and maintenance of software. It involves applying engineering principles to software creation to ensure reliability, efficiency, maintainability, and scalability.
+
 Traditional Programming focuses mainly on writing code to solve specific problems. It often lacks the comprehensive planning, design, and structured approach that software engineering encompasses. Traditional programming may not involve rigorous testing, documentation, and maintenance practices, leading to potential issues in larger, complex systems.
 
 Differences:
@@ -42,6 +44,7 @@ Agile Model:
 
 Requirements Engineering:
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+
 Requirements Engineering is the process of defining, documenting, and maintaining the requirements of the software system. It involves gathering user needs, analyzing and specifying requirements, validating, and managing them.
 
 Process:
@@ -59,6 +62,7 @@ Importance:
 
 Software Design Principles:
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+
 Modularity refers to designing software in separate, self-contained units or modules, each responsible for a specific aspect of the system’s functionality.
 
 Benefits:
@@ -89,6 +93,7 @@ Importance:
 
 Version Control Systems:
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+
 Version Control Systems (VCS) manage changes to source code over time, enabling multiple developers to collaborate and track modifications.
 
 Importance:
@@ -126,6 +131,7 @@ Challenges:
 
 Software Maintenance:
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+
 Software Maintenance involves modifying and updating software after its initial deployment to correct faults, improve performance, or adapt it to a changed environment.
 
 Types of Maintenance:
